@@ -5,9 +5,6 @@ This repository contains my solutions for the CSE341 Programming Languages assig
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
